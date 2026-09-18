@@ -54,27 +54,26 @@ Used to fingerprint the site's underlying technology stack. This turned up **Wor
 **Nslookup**
 Used to resolve the domain to its IP address. **networkwalks.com** resolved to **192.232.216.135**.
  ![](wnslookup.png)
-<!-- Insert screenshot here -->
+
  
 ###
 # CURL -I
 Used to inspect the site's HTTP response headers, which also revealed the WordPress REST API path (`/wp-json/`).
- 
-<!-- Insert screenshot here -->
+
  
 ###
 # WAFW00F
 Used to check for a Web Application Firewall in front of the site. It detected **ModSecurity (SpiderLabs)**.
   ![]( wafw00f.png)
 
-<!-- Insert screenshot here -->
+
  
 ###
 # DNSRECON
 Used to pull together the domain's DNS footprint — name servers, mail servers, SPF/TXT records, service records, and details on the DNS software in use.
   ![](dnsrecon.png)
 
-<!-- Insert screenshot here -->
+
  
 Together, these results built up a picture of the target's web-server setup, its defensive controls, and its DNS infrastructure.
  
@@ -103,7 +102,7 @@ After the discovery scan, I opened Zenmap's **Topology** tab to view the network
 ---
 
  
-<!-- Insert screenshot here -->
+
  
 ###
  
