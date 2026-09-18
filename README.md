@@ -5,7 +5,7 @@
 |---|---|
 | **Pentester Name**<br>*(Cybersecurity Intern)* | **ADEWUYI GODWIN** |
 | **Program/Batch** | B083-Networkwalks |
-| **Date** | [16 SEPTEMBER 2026] |
+| **Date** | 16 SEPTEMBER 2026 |
 | **Modules Completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM2 (Zenmap Scanning) |
 | **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
 | **Permission secured from client?** | **Yes** |
@@ -40,8 +40,7 @@ For this stage, I ran a passive assessment of **networkwalks.com** using six Kal
  
 **WHOIS**
 Used to pull publicly available registration data for the domain and identify its name servers, giving a picture of how the domain and its DNS setup are registered.
-*[Describe what you found — registrar, registration date, name servers, etc.]*
- 
+
 <!-- Insert screenshot(s) here -->
 <!-- ![WHOIS output](path-or-link-to-image) -->
  
