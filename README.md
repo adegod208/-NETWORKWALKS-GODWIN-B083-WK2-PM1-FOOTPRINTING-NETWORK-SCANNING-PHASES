@@ -4,8 +4,8 @@
  
 | **Field** | **Details** |
 |---|---|
-| **Pentester Name**<br>*(Cybersecurity Intern)* | **[ADEWUYI GODWIN]** |
-| **Program/Batch** | [B083-Networkwalks] |
+| **Pentester Name**<br>*(Cybersecurity Intern)* | **ADEWUYI GODWIN** |
+| **Program/Batch** | B083-Networkwalks |
 | **Date** | [16 SEPTEMBER 2026] |
 | **Modules Completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM2 (Zenmap Scanning) |
 | **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
