@@ -41,19 +41,19 @@ For this stage, I ran a passive assessment of **networkwalks.com** using six Kal
 **WHOIS**
 Used to pull publicly available registration data for the domain and identify its name servers, giving a picture of how the domain and its DNS setup are registered.
 
-<!-- Insert screenshot(s) here -->
-<!-- ![WHOIS output](path-or-link-to-image) -->
+ ![](whois.png)
+
  
 ###
 **WhatWeb**
 Used to fingerprint the site's underlying technology stack. This turned up **WordPress 7.0.4** and the **WP Download Manager 3.3.58** plugin, along with other technology details the site exposes.
- 
+ ![](whatweb.png)
 <!-- Insert screenshot here -->
  
 ###
 **Nslookup**
 Used to resolve the domain to its IP address. **networkwalks.com** resolved to **192.232.216.135**.
- 
+ ![](wnslookup.png)
 <!-- Insert screenshot here -->
  
 ###
@@ -65,15 +65,15 @@ Used to inspect the site's HTTP response headers, which also revealed the WordPr
 ###
 # WAFW00F
 Used to check for a Web Application Firewall in front of the site. It detected **ModSecurity (SpiderLabs)**.
- 
- 
+  ![]( wafw00f.png)
+
 <!-- Insert screenshot here -->
  
 ###
 # DNSRECON
 Used to pull together the domain's DNS footprint — name servers, mail servers, SPF/TXT records, service records, and details on the DNS software in use.
+  ![](dnsrecon.png)
 
- 
 <!-- Insert screenshot here -->
  
 Together, these results built up a picture of the target's web-server setup, its defensive controls, and its DNS infrastructure.
