@@ -1,5 +1,4 @@
-# [PROGRAM/BATCH]-[YOUR NAME]-[WEEK]-[MODULE]-FOOTPRINTING & NETWORK SCANNING PHASES
-###
+##FOOTPRINTING & NETWORK SCANNING 
 ## 👤 Lab Information
  
 | **Field** | **Details** |
