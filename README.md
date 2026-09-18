@@ -148,7 +148,7 @@ The findings from both exercises carry some security implications, summarized be
 During the footprinting stage, I worked through WHOIS, WhatWeb, Nslookup, cURL, Wafw00f, and DNSRecon, each surfacing a different piece of the puzzle: domain registration details, DNS setup, the site's IP address, its technology stack, HTTP header data, exposed endpoints, and its WAF. Put together, these individual data points added up to a broader view of the target's infrastructure.
 The Zenmap exercise gave me practical experience with host discovery on an authorized local network. After finding my local IP and subnet through Windows networking commands, I configured Zenmap to run a discovery scan, which returned live hosts along with their IP and MAC addresses. The topology view then let me visualize how those devices sat within the network.
 ###
-**👤 Author**
+##👤 Author
  
 **[ADEWUYI GODWIN OLUWAPELUMI]**
 [CYBERSECURITY INTERN] | [Batch/Program ID]
