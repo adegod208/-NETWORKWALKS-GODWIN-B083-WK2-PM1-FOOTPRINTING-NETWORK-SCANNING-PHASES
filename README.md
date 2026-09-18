@@ -1,4 +1,4 @@
-##FOOTPRINTING & NETWORK SCANNING 
+**FOOTPRINTING & NETWORK SCANNING** 
 ## 👤 Lab Information
  
 | **Field** | **Details** |
